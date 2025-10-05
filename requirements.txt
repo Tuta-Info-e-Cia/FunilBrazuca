@@ -1,0 +1,11 @@
+pandas
+plotly
+dash
+dash-bootstrap-components
+dash-auth
+Flask-SQLAlchemy
+Flask-HTTPAuth
+python-dotenv
+Werkzeug
+gunicorn
+psycopg2-binary
